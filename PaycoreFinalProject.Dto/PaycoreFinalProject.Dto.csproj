@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaycoreFinalProject.Base\PaycoreFinalProject.Base.csproj" />
+    <ProjectReference Include="..\PaycoreFinalProject.Data\PaycoreFinalProject.Data.csproj" />
+  </ItemGroup>
+
+</Project>
